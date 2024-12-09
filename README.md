@@ -1,11 +1,4 @@
-## Hi there 👋
-
-
-**ak-marine/AK-marine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-# 💫 About Me:
+# 👋 About Me:
 🔭 I’m currently working on ecological modelling<br>👯 I’m looking to collaborate with experts on a PhD project<br>🌱 I’m currently learning ML in python & advanced modelling in R<br>💬 Ask me about your ecology R code<br>
 
 
